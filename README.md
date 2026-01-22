@@ -16,7 +16,7 @@ A clean and responsive mobile login interface built with HTML and CSS, featuring
 
 ## Demo
 
-**[Live Demo](https://reezmahanan.github.io/mobile-login/)**
+**[Live Demo]( https://reezmahanan.github.io/Mobile-login/)**
 
 The interface includes:
 - Email and password input fields
